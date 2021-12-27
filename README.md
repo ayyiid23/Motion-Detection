@@ -1,2 +1,1 @@
 # Motion-Detection
-# Detects motion
